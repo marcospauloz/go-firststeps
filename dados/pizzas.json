@@ -1,1 +1,11 @@
-[{"id":1,"nome":"Toscana","preco":49.5},{"id":2,"nome":"Marguerita","preco":79.5}]
+[
+  { "id": 1, "nome": "Toscana", "preco": 49.5, "reviews": null },
+  {
+    "id": 2,
+    "nome": "Marguerita",
+    "preco": 19.5,
+    "reviews": [
+      { "rating": 1, "comment": "Estava salgada demais" }
+    ]
+  }
+]
